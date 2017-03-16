@@ -5,4 +5,6 @@
     <string name="message_page">Message Page</string>
     <string name="location_page">Location Page</string>
     <string name="HomePage_bio">This is the homepage for my Advanced Mobile Development Project, Please select either the messaging or location icon to continue.</string>
+    <string name="add_chat">Add Chat</string>
+    <string name="send">Send</string>
 </resources>

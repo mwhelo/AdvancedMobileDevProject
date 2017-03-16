@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204814077399",
+    "firebase_url": "https://amdproject-a7b90.firebaseio.com",
+    "project_id": "amdproject-a7b90",
+    "storage_bucket": "amdproject-a7b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204814077399:android:4c60a2cd62494c5e",
+        "android_client_info": {
+          "package_name": "com.example.x1243.amdproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204814077399-kp9m9rgouijipcf0s3m18bqb2q1m2nd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeli1rdGld6FCavRUhrKhTL8QDfhmExBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
