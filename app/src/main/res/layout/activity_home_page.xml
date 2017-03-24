@@ -70,5 +70,24 @@
         android:textSize="18sp"
         android:id="@+id/textView2" />
 
+    <TextView
+        android:id="@+id/textViewUserEmail"
+        android:textColor="#ffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Homepage_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <Button
+        android:id="@+id/button_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/common_plus_signin_btn_text_dark_normal"
+        android:text="Log Out" />
+
 
 </RelativeLayout>
